@@ -1,8 +1,7 @@
-# WebScrapping-to-get-NewsDetails-of-India-from-First-N-Pages-of-RepublicMediaNetwork-Website
-# WebScrapping to get NewsDetails of India from First N Pages of IndiaToday Website
-This repository help you to get news details on India from first N pages of IndiaToday Official Website.
+# WebScrapping to get GeneralNews from First N Pages of RepublicMediaNetwork Website
+This repository help you to get General News from first N pages of RepublicMediaNetwork Official Website.
 ## Step 1:
-Download newsFromFirstNPagesofIndiaToday.py from this repository
+Download newsFromRepublicTV.py from this repository
 ![htr](./img/WSRMN1.png)
 
 ## Step 2:
