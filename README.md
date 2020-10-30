@@ -3,7 +3,7 @@
 This repository help you to get news details on India from first N pages of IndiaToday Official Website.
 ## Step 1:
 Download newsFromFirstNPagesofIndiaToday.py from this repository
-![htr](./img/WSIT1.png)
+![htr](./img/WSRMN1.png)
 
 ## Step 2:
 Execute the file
